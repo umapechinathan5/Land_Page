@@ -1,0 +1,69 @@
+.hero{
+  background-color: rgb(41, 39, 39);
+  height: 100%;
+  width: 100%;
+}
+.navbar-collapse{
+  color: white;
+  padding-left: 100px;
+}
+.name{
+  margin-top: 100px;
+  
+  color: white;
+  text-align: center;
+}
+
+.award{
+  text-align: center;
+  margin: 40px 0;
+}
+.poetry{
+  margin-top: 80px;
+ 
+}
+.list{
+   text-align: center;
+   margin-bottom: 40px;
+   }
+.poetry ul{
+  font-size: 12px;
+}
+.poem{
+  background-color: white;
+  }
+.poemm{
+  text-align: center;
+}
+span{
+  margin-left: 60px;
+  padding-top: 20px;
+}
+.container2{
+  margin: 100px 0px;
+}
+.small{
+  background-color: rgb(41, 39, 39);
+  color: white;
+  }
+.small h5{
+  padding:30px 0px;
+}
+.awardbox{
+  border: 1px solid rgb(41, 39, 39);
+  border-radius: 5px;
+  margin: 8px;
+  font-size: 12px;
+  padding: 10px;
+}
+a{
+  text-decoration: none;
+}
+.bottomBox{
+  padding: 20px 20px;
+  font-size: 10px;
+}
+#centerBox{
+  border-left: 1px solid gray;
+  border-right: 1px solid gray;
+}
